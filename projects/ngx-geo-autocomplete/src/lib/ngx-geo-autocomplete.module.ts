@@ -30,7 +30,7 @@ import { BrowserGlobalRef, GlobalRef } from './windowRef.service';
     LocalStorageService]
 })
 export class NgxGeoAutocompleteModule {
-  static forRoot(): ModuleWithProviders {
+  static forRoot(): ModuleWithProviders<NgxGeoAutocompleteModule> {
     return {
       ngModule: NgxGeoAutocompleteModule
     };
