@@ -1,18 +1,15 @@
-# Angular 6+ compatible google autocomplete
-
-[![npm version](https://badge.fury.io/js/ngx-geoautocomplete-v2.svg)](https://badge.fury.io/js/ngx-geoautocomplete-v2)
-
-[![GitHub issues](https://img.shields.io/github/issues/techaks/ngx-geoautocomplete-v2)](https://github.com/techaks/ngx-geoautocomplete-v2/issues)
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/techaks/ngx-geoautocomplete-v2/master/LICENSE)
-
+# Angular 12 compatible google autocomplete
+[![npm version](https://badge.fury.io/js/@sumond25%2Fngx-geo-autocomplete.svg)](https://badge.fury.io/js/@sumond25%2Fngx-geo-autocomplete)
+[![GitHub issues](https://img.shields.io/github/issues/sumond25/ngx-geo-autocomplete)](https://github.com/sumond25/ngx-geo-autocomplete/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sumond25/ngx-geo-autocomplete#license)
 ## Demo (original version ng4)
+https://tanoy009.github.io/ng4-geoautocomplete/
 
-https://ngx-geoautocomplete-v2.stackblitz.io
+## Original version ng8
+https://www.npmjs.com/package/ngx-geoautocomplete-v2
 
-## Test Case.
-
-In Pipeline will be updated in a while.
+## Declaration
+With the help of [ng8-version](https://www.npmjs.com/package/ngx-geoautocomplete-v2), I upgrade the geo-autocomplete package to the angular 12 (latest) version.
 
 ## Table of contents
 
@@ -28,7 +25,7 @@ In Pipeline will be updated in a while.
 
 ## About
 
-angular 6+ compatible google autocomplete with server side api support and AOT enabled
+angular 12 compatible google autocomplete with server side api support and AOT enabled
 
 ## Installation
 

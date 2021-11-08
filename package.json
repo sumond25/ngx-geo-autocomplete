@@ -1,5 +1,5 @@
 {
-  "name": "techaks-library-workspace",
+  "name": "@sumond25/ngx-geo-autocomplete",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
